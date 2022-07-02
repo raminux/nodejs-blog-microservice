@@ -4,6 +4,9 @@ In this simple example, we are going to design a simple blog system using the mi
 1. Create a react project:
 ```bash 
 $> npx create-react-app client
+$> cd client
+$> npm install axios
+$> npm start
 ```
 
 2. Create a directory for ==posts== and initialize it
