@@ -24,3 +24,11 @@ $> cd comments
 $> npm init -y
 $> npm install express cors axios nodemon
 ```
+
+4. Create a directory for ==event-bus== and initialize it
+```bash
+$> mkdir event-bus
+$> cd event-bus
+$> npm init -y
+$> npm install express nodemon axios
+```
