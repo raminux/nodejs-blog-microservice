@@ -19,6 +19,7 @@ export default ({ postId }) => {
                 <label>New Comment</label>
                 <input value={content} onChange={e => setContent(e.target.value)} className="form-control" />
             </div>
+            <br />
             <button className="btn btn-primary">Submit</button>
         </form>
     </div>;
