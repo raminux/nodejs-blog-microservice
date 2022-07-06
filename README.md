@@ -32,3 +32,11 @@ $> cd event-bus
 $> npm init -y
 $> npm install express nodemon axios
 ```
+
+5. Create a directoy for ==query== service and initialize it:
+```bash
+$> mkdir query
+$> cd query
+$> npm init -y
+$> npm install express cors nodemon
+```
