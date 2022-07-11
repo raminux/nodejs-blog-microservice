@@ -38,5 +38,13 @@ $> npm install express nodemon axios
 $> mkdir query
 $> cd query
 $> npm init -y
-$> npm install express cors nodemon
+$> npm install express cors nodemon axios
+```
+
+6. Create a directory for ==moderation== service and initialize it:
+```bash
+$> mkdir moderation
+$> cd moderation
+$> npm init -y
+$> npm i axios express nodemon
 ```
